@@ -1,0 +1,208 @@
+
+body{ 
+    background-image: url("Bg-img.jpg");
+    margin: auto;
+    border: auto;
+}
+
+
+h1{
+    color: crimson;
+    font-size: 40px;
+    font-family: sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.classoneh2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+    margin-left: 10px;
+        margin-right: 0px;
+}
+
+.classtwoh2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:brown;
+    margin-left: 10px;
+        margin-right: 0px;
+}
+
+.classthreeh2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: indigo;
+    margin-left: 10px;
+        margin-right: 0px;
+}
+
+.classfourh2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    margin-left: 10px;
+        margin-right: 0px;
+}
+
+.classfiveh2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: maroon;
+    margin-left: 10px;
+        margin-right: 0px;
+}
+
+.classonep {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 5px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: black;
+}
+ 
+.classtwop {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 5px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+ color: black;
+}
+.classthreep {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 5px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+color: black;
+}
+.classfourp {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 5px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+color: black;
+}
+.classfivep {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 5px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+color: black;
+}
+
+.classsixp {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 5px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+ color: black;
+}
+
+.classsevenp {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 5px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+color: black;
+}
+
+
+.classeightp {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 5px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+      color: black;
+}
+
+.classoneq{
+    color: maroon;
+    font-weight: bold;
+}
+.classtwoq{
+    color: darkviolet;
+    font-weight: bolder;
+    font-variant: small-caps;
+}
+.classthreeq{
+    color: saddlebrown;
+    font-weight: lighter;
+}
+
+
+h3{
+    text-align: left;
+    text-transform: capitalize;
+    text-decoration: underline;
+     font-size: 24px;
+     margin-left: 10px;
+        margin-right: 0px;
+}
+
+h3:hover{
+    color: purple;
+    text-transform: uppercase;
+    }
+
+.classninep{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 5px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: black;
+    height: 200px;
+    width: 500px;
+    border: 1px solid black;
+    word-wrap: break-word;
+}
+
+.classninep:hover{
+    background-color: darkslateblue;
+    color: wheat;
+}
+
+
+div{
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding-top: 10px;
+   padding-right: 10px; 
+   padding-bottom: 10px;
+   padding-left: 10px;
+   border: 2px solid black; 
+   color: white;
+   background-color: mediumvioletred;
+    }
+    div:hover{
+        color: black;
+        background-color: lightgreen;
+        text-decoration: underline;
+        text-decoration-color: palevioletred;
+    }
+
+    img{
+        border:2px solid black;
+        display: block;
+        margin-left: 10px;
+        margin-right: 0px;
+    }
+
+   ul{
+       list-style-type: lower-roman;
+       font-weight: bold;
+   }
+   li{
+       font-size: 125%;
+   }
+
+a:hover {
+    background-color: brown;
+    color: white;
+}
